@@ -1,11 +1,5 @@
-- 👋 Hi, Welcomw to my GitHub I’m @IngredGomes
-- I’m currently learning 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-IngredGomes/IngredGomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, Welcomw to my GitHub
+- 📚 Emerging student oursuing my degree in Information Technology in Kent Institute Australia and two years studied Computer Science in Brazil
+- 👩‍💻 Familiar with SQL and Eclipse, also proficient in Java/JavaScript
+- 📚💻 Always looking to improve my skills
+- 📩 Reach me at ingredgomes64@gmail.com
